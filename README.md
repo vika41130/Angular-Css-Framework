@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## css frameworks
+installation ref: https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+### bulma
++ https://bulma.io/documentation/overview/start/
+#### import: 
+1. styles.css: @import '~bulma/css/bulma.min.css';
+2. angular-cli.json

@@ -19,9 +19,12 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "styles.css",
+        "../node_modules/bulma/css/bulma.min.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "js/font-awesome-all.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
